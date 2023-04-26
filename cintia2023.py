@@ -7,7 +7,7 @@ def demo(screen):
     effects = [
         Cycle(
             screen,
-            FigletText("Feliz  Aniversário !!!", font='big'),
+            FigletText("Feliz  Aniversario !!!", font='big'),
             int(screen.height / 2 - 8)),
         Cycle(
             screen,
