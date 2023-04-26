@@ -11,7 +11,7 @@ def demo(screen):
             int(screen.height / 2 - 8)),
         Cycle(
             screen,
-            FigletText("Parabens Cintia!", font='big'),
+            FigletText("Parabens  Cintia !", font='big'),
             int(screen.height / 2 + 3)),
         Stars(screen, 400)
     ]
